@@ -1,0 +1,12 @@
+.card-img-top{
+    width: 180px;
+    height: 180px;
+}
+
+.nav > li > a:hover, .nav > li > a:focus:hover{
+    background-color: #337ab7;
+    color: #fff;
+}
+.card {
+    border-color: #2e6da4;
+}

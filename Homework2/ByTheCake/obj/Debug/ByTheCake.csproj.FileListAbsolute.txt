@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Homework2\ByTheCake\bin\Debug\ByTheCake.exe.config
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\ByTheCake\bin\Debug\ByTheCake.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\ByTheCake\bin\Debug\ByTheCake.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\ByTheCake\obj\Debug\ByTheCake.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\ByTheCake\obj\Debug\ByTheCake.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\ByTheCake\obj\Debug\ByTheCake.pdb

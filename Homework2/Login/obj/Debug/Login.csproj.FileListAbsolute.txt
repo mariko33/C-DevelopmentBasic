@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Login\bin\Debug\Login.exe.config
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Login\bin\Debug\Login.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Login\bin\Debug\Login.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Login\obj\Debug\Login.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Login\obj\Debug\Login.pdb

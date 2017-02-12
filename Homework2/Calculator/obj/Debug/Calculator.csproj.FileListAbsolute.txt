@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Calculator\bin\Debug\Calculator.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Calculator\obj\Debug\Calculator.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

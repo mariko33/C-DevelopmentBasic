@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\BrowseCakes\bin\Debug\BrowseCakes.exe.config
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\BrowseCakes\bin\Debug\BrowseCakes.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\BrowseCakes\bin\Debug\BrowseCakes.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\BrowseCakes\obj\Debug\BrowseCakes.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\BrowseCakes\obj\Debug\BrowseCakes.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\Homework2\BrowseCakes\obj\Debug\BrowseCakes.pdb
