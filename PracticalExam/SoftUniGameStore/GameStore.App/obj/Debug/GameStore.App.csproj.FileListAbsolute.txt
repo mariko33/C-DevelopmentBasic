@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\GameStore.App.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\Resources\Pages\404.html
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\Resources\Pages\500.html
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\GameStore.App.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\GameStore.App.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\SimpleHttpServer.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\SimpleMVC.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\SimpleHttpServer.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\SimpleMVC.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\obj\Debug\GameStore.App.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\obj\Debug\GameStore.App.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\SoftUniGameStore\GameStore.App\obj\Debug\GameStore.App.pdb
